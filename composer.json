@@ -13,5 +13,7 @@
             "name": "Sattorbek Sa'dullayev"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
