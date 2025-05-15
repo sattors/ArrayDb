@@ -1,7 +1,7 @@
 {
     "name": "sattorbek/array-db",
     "description": "c",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
