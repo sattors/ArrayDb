@@ -1,7 +1,7 @@
 # ArrayDb
 
-**ArrayDb** — PHP uchun sodda va yengil `array` asosida kalit-yozuvchi saqlash (key-value storage) utilitasi.
-Bu kichik kutubxona asosan sessiyalar, vaqtinchalik holatlar yoki oddiy keshlash uchun mo‘ljallangan.
+**ArrayDb** — A simple and lightweight key-value storage utility based on arrays for PHP.
+This small library is primarily designed for sessions, temporary states, or simple caching.
 
 ---
 
@@ -33,17 +33,18 @@ echo $db->get("key", "author");
 
 ## Features
 
-* Minimalistik va samarali `key-author-value` saqlash mexanizmi
-* Oddiy interfeys bilan tezkor foydalanish
-* PHP 8+ uchun type-safe yozilgan
-* Oson integratsiya va kengaytirish imkoniyati
+
+* Minimalistic and efficient key-author-value storage mechanism
+* Quick usage with a simple interface
+* Written type-safe for PHP 8+
+* Easy integration and extensibility options
 
 ---
 
 ## Requirements
 
-* PHP 8.0 yoki undan yuqori versiyasi
-* Composer (paketlarni boshqarish uchun)
+* PHP 8.0 or higher version
+* Composer (for package management)
 
 ---
 
@@ -55,5 +56,5 @@ MIT License © Sattorbek
 
 ## Contact
 
-Loyiha muallifi: Sattorbek
+Author: Sattorbek
 GitHub: [https://github.com/sattors/ArrayDb](https://github.com/sattors/ArrayDb)
