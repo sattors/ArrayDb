@@ -1,0 +1,13 @@
+/vendor/
+/composer.lock
+
+/.idea/
+/.vscode/
+/nbproject/
+
+/*.log
+/*.cache
+
+/.env
+.DS_Store
+Thumbs.db

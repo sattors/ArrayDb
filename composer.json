@@ -1,0 +1,16 @@
+{
+    "name": "sattorbek/array-db",
+    "description": "c",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Cache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sattorbek Sa'dullayev"
+        }
+    ],
+    "require": {}
+}
