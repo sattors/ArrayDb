@@ -2,6 +2,7 @@
     "name": "sattorbek/array-db",
     "description": "c",
     "type": "composer-plugin",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Cache\\": "src/"
